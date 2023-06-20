@@ -1,0 +1,28 @@
+#=======================
+# Simulation synthesis
+#=======================
+Simulation name: simu
+Start (UTC): 2021/01/01 00:00:00.000
+End (UTC): 2021/01/02 00:00:00.000
+
+#-----------------------
+# Satellite 1
+#-----------------------
+Name: Sat
+
+# Initial conditions
+Date (UTC): 2021/01/01 00:00:00.000
+Altitude (km): 607.942
+Eccentricity: 0.0023903
+Inclination (deg): 97.815
+Argument of perigee (deg): 118.055
+Mean local time of ascending node (h): 1.000
+Argument of latitude (deg): 24.699
+Mean J2 orbital period (h): 1.615
+
+#-----------------------
+# Stations
+#-----------------------
+1: Grasse
+2: Paris
+

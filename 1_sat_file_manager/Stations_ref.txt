@@ -1,0 +1,18 @@
+# ----------------------------------------------------
+# Stations-sol : 
+# - Nom (casse non significative)
+# - Longitude (deg)
+# - Latitude (deg)
+# - Altitude (m)
+# - Mnémonique 
+# - Elevation min (deg)
+# - Reconfiguration time (s) - %nan if absent
+# - Conjunction angle (deg) - %nan if absent
+#
+# Séparateur de champs = ',' (blancs ignorés)
+# Lignes blanches ou commencant par '#': ignorées
+# ----------------------------------------------------
+
+Grasse, 6.9216, 43.7546, 1323, ,0
+Paris, 2.351, 48.856, 30, PAR,0
+
